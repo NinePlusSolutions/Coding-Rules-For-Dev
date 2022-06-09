@@ -3,7 +3,7 @@ Apply this rule for all dev in our office
 
 ##Coding Conventions
 
-####1\. Project guidelines
+#### 1\. Project guidelines
 
 **1.1 Project structure**
 
