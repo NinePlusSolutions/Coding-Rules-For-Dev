@@ -395,7 +395,7 @@ As a general rule you should try to group similar attributes together. A good wa
 4.  Other layout attributes, sorted alphabetically
 5.  Remaining attributes, sorted alphabetically
 
-####3 Workflows
+#3 Workflows
 
 **3.1 Declare - branch name rules**
 
@@ -427,9 +427,9 @@ EVERY COMMIT must be followed this rule:
 
 [action](scope function): [message detail].
 
-> action: should be in [build, ci, chore, docs, feat, fix, perf, refactor, revert, style, test, update].
-> scope function: should be task/function implement
-> message detail: clear message about your task or what you did on this commit
+- action: should be in: [build, ci, chore, docs, feat, fix, perf, refactor, revert, style, test, update]
+- scope function: should be task/function implement
+- message detail: clear message about your task or what you did on this commit
 
 Example: update(Login): #ID_TASK - Changed login logics
 
