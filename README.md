@@ -395,7 +395,7 @@ As a general rule you should try to group similar attributes together. A good wa
 4.  Other layout attributes, sorted alphabetically
 5.  Remaining attributes, sorted alphabetically
 
-#3 Workflows
+# 3 Workflows
 
 **3.1 Declare - branch name rules**
 
